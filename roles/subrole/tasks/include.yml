@@ -1,0 +1,3 @@
+---
+- name: In subrole include, show default variable
+  debug: var=subrole_var

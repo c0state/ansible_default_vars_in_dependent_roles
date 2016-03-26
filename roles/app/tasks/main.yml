@@ -1,0 +1,3 @@
+---
+- name: Show ansible version
+  debug: var=ansible_version
